@@ -1,0 +1,6 @@
+{
+  "name": "Fullnode-pc",
+  "tagline": "Payment channels for Fullnode.",
+  "body": "# fullnode-pc\r\n\r\nA Bitcoin micropayment channel hub built in Javascript. Based on our [Javascript implementation of Bitcoin](https://github.com/yoursnetwork/fullnode). \r\n\r\nCheck out our  [gentle introduction to the lightning network](https://github.com/yoursnetwork/fullnode-pc/blob/master/docs/gentle-lightning.md). We also have a [prospectus system description](https://github.com/yoursnetwork/fullnode-pc/blob/master/docs/yours_lightning_03.md) that we are keeping more or less in sync with the  [implementation](https://github.com/yoursnetwork/fullnode-pc/blob/master/lib/agent.js).\r\n\r\nThis is a work in progress and will change all the time.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
